@@ -1,6 +1,3 @@
-<h1 align="center">Hi, I'm EternalWill43</h1>
-<h3 align="center">A developer from the east coast USA.</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=eternalwill43&label=Profile%20views&color=0e75b6&style=flat" alt="eternalwill43" /> </p>
 
 - 📫 How to reach me **adroit#8482** on discord.
